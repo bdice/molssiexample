@@ -5,6 +5,7 @@ An example of MolSSI cookiecutter.
 Handles the primary functions
 """
 
+from .euler import euler
 
 def canvas(with_attribution=True):
     """
