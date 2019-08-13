@@ -5,3 +5,5 @@ API Documentation
    :toctree: autosummary
 
    molssiexample.canvas
+   molssiexample.euler
+   molssiexample.pi
